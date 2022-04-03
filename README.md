@@ -6,7 +6,7 @@ A GXT file contains textual data in GXT format that describes one or more diagra
 <br />
 # Why this code matters ?
 <br />
-Typical way opening GXT files are GIMS software by ITU. However graphics from the software can be basic. Therefore this code can produce kml for nicer representation of these data on google earth, QGIS or ArcMap. 
+Typical way opening GXT files are GIMS software by ITU. However graphics from the software can be basic and may not ready for presentation. Therefore this code can produce kml for nicer representation of these data on google earth, QGIS or ArcMap. Also it has bulk processing ability with  output can be adopeted to main GIS data formats like shape file, geojson and kml. It provide capability to draw the data on widely using basemaps like google, esri and OSM.
 <br />
 <br />
 typical GIMS generated diagram and kml output images attached
